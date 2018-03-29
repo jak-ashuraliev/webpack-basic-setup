@@ -1,0 +1,1 @@
+import {message} from './dom_loader';
