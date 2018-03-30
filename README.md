@@ -1,2 +1,1 @@
-# webpack-basic-setup
-Webpack
+## webpack Basic Setup and Structure
